@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "My Projects"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Main"
+description              : "Things I Have Done"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -63,10 +63,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Cory J. Fowler"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Another Guy on the Interent."
+  location         : "Columbus, Indiana"
   email            :
   uri              :
   bitbucket        :
